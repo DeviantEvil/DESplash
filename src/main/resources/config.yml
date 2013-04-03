@@ -1,0 +1,22 @@
+splash_time: 5000
+splash_intensity:
+    blindness: 1
+    confusion: 1
+    damage_resistance: 1
+    fast_digging: 1
+    fire_resistance: 1
+    harm: 1
+    heal: 1
+    hunger: 1
+    increase_damage: 1
+    invisibility: 1
+    jump: 1
+    night_vision: 1
+    poison: 1
+    regeneration: 1
+    slow: 1
+    slow_digging: 1
+    speed: 1
+    water_breathing: 1
+    weakness: 1
+    wither: 1
